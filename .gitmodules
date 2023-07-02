@@ -1,0 +1,6 @@
+[submodule "ppg_tools"]
+	path = ppg_tools
+	url = git@github.com:ptan101/ppgtools.git
+[submodule "ppgtools"]
+	path = ppgtools
+	url = git@github.com:ptan101/ppgtools.git
